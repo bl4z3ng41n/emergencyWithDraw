@@ -58,10 +58,12 @@ Explanation: This is mostly due to the gas parameters being too low at line http
 ## FAQ
 
 Q.1 Could this code be simplified?  
-A.1 Yes.
+A.1 Yes. See question 2 for an example with react. Same logic can be done with Python.
 
 Q.2 Could it be done with react (web3.js)?  
-A.2 Yes.
+A.2 Yes. See:
+
+ ![react_poc.jpg](https://github.com/bl4z3ng41n/emergency-withdraw/blob/main/react_poc.jpg)
 
 ## Disclaimer
 The readers following these instructions accept all risks. The author share this information to educate the crypto space on how to call the emergencyWithdraw function from MasterChef look-like contract.
