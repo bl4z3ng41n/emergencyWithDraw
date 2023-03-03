@@ -10,7 +10,7 @@
 6) [Optional] Set the contract (MasterChief) address here: https://github.com/bl4z3ng41n/emergency-withdraw/blob/main/contract-decode.py#L4
 7) python contract-decode.py
 
-## Error
+## Errors
 
 ### No stakes found for user
 
