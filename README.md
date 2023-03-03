@@ -8,7 +8,7 @@
 3) pip install -r requirements
 4) Set your wallet address here: https://github.com/bl4z3ng41n/emergency-withdraw/blob/main/private.py#L1
 5) Set your private key here: https://github.com/bl4z3ng41n/emergency-withdraw/blob/main/private.py#L2
-6) [Optional] Set the contract (MasterChief) address here: https://github.com/bl4z3ng41n/emergency-withdraw/blob/main/contract-decode.py#L4
+6) [Optional] Set the contract (MasterChef) address here: https://github.com/bl4z3ng41n/emergency-withdraw/blob/main/contract-decode.py#L4
 7) python contract-decode.py
 
 ## Errors
