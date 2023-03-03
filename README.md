@@ -2,6 +2,7 @@
 
 ## Instructions
 
+0) git clone this repository
 1) Install Python
 2) [Optional] Setup python venv environment
 3) pip install -r requirements
