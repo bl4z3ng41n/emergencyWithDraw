@@ -68,3 +68,6 @@ A.2 Yes. See:
 
 ## Disclaimer
 The readers following these instructions accept all risks. The author share this information to educate the crypto space on how to call the emergencyWithdraw function from MasterChef look-like contract.
+
+## Donation
+Donate what you can at [0x9C485bDEe3eeA35cc9D2fd70F1D9B41fDBe83f34](https://etherscan.io/address/0x9C485bDEe3eeA35cc9D2fd70F1D9B41fDBe83f34)
